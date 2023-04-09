@@ -1,6 +1,6 @@
 # Driver-Rele-NP
 
--PCI Desenvolvida Por Douglas Felipe de Oliveira
+## -PCI Desenvolvida Por Douglas Felipe de Oliveira
 -Perfil Linkedin: https://www.linkedin.com/in/douglasfelipe577/
 
 -Placas com final CC tem o CATODO do led emissor do fotoacoplador aterrados ao GND e o ANODO como entrada de sinal.
