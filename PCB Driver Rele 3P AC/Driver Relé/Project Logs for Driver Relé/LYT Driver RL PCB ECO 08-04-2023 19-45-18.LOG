@@ -1,8 +1,0 @@
-Added Component: Designator=H1(Parafuso M3)
-Added Component: Designator=H2(Parafuso M3)
-Added Component: Designator=H3(Parafuso M3)
-Added Component: Designator=H(Parafuso M3)
-Added Member To Class: ClassName=SCH Driver RL Member=Component H1 M3
-Added Member To Class: ClassName=SCH Driver RL Member=Component H2 M3
-Added Member To Class: ClassName=SCH Driver RL Member=Component H3 M3
-Added Member To Class: ClassName=SCH Driver RL Member=Component H M3
