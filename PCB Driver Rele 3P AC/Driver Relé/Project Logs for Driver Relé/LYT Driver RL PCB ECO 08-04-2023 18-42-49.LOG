@@ -1,0 +1,12 @@
+Change Component Comment : Designator=1 Old Comment=Valor New Comment=1K
+Change Component Comment : Designator=1K Old Comment=Valor New Comment=1K
+Change Component Comment : Designator=2 Old Comment=Valor New Comment=1K
+Change Component Designator: OldDesignator=1 NewDesignator=R8
+Change Component Designator: OldDesignator=1K NewDesignator=R7
+Change Component Designator: OldDesignator=2 NewDesignator=R9
+Change Net Name : Old Net Name=Net1_1 New Net Name=NetQ2_2
+Change Net Name : Old Net Name=Net1_2 New Net Name=NetR8_2
+Change Net Name : Old Net Name=Net1K_1 New Net Name=NetQ1_2
+Change Net Name : Old Net Name=Net1K_2 New Net Name=NetR7_2
+Change Net Name : Old Net Name=Net2_1 New Net Name=NetQ3_2
+Change Net Name : Old Net Name=Net2_2 New Net Name=NetR9_2
